@@ -12,6 +12,7 @@
   <img align="center" alt="Jords-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Jords-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="Jords-C" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Vaadin_Logo.svg/1200px-Vaadin_Logo.svg.png" />
+  <img align="center" alt="Jords-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 </div>
 
 ##
