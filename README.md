@@ -1,7 +1,8 @@
 ### Hey I'm Jordana Loreto 👋
 
 - 🔭 I’m currently a student at IFG learning how to program.
-- 🌱 I’m currently working with Flutter, Java and SQL. 
+- 🌱 I’m currently using Flutter, Java and SQL in college. 
+- 🌱 I’m currently working with PHP and Laravel. 
 - 💬 Ask me about the projects and exercises that i'll be putting in here,  i'll try my best to answer your questions!
 - 📫 How to reach me: jordanaloreto45@gmail.com
 
